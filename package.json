@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sigmastr/AmonBackend.git"
+    "url": "git+https://github.com/Rodsgl/OwO.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Sigmastr/AmonBackend/issues"
+    "url": "https://github.com/Rodsgl/OwO/issues"
   },
-  "homepage": "https://github.com/Sigmastr/AmonBackend#readme",
+  "homepage": "https://github.com/Rodsgl/OwO#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.2",
